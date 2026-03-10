@@ -31,20 +31,18 @@ Aquí podrás conocer un poco más sobre mí:
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='35'/>
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='35'/>
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='35'/>
-
 </p>
 
 ---
 
-## 📌 Sobre mí
+<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" />  Sobre mí </h2>
 
 - 🎓 Apasionado por la programación y la tecnología.  
 - 🔍 Siempre aprendiendo nuevas herramientas y lenguajes.  
 - 🛠️ Me gusta crear proyectos que me ayuden a mejorar mis habilidades.  
 
 ---
-
-## 🎮 Gaming
+<h2>Gustos<img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/></h2>
 
 También disfruto los videojuegos en mi tiempo libre, ya que me ayudan a relajarme y muchas veces inspiran ideas para nuevos proyectos.
 <div align="center">
@@ -52,7 +50,6 @@ También disfruto los videojuegos en mi tiempo libre, ya que me ayudan a relajar
   <img src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif" height="40" />
 </h1>
 </div>
----
 
 <h1 align="center">
 Mis redes sociales
