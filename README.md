@@ -23,10 +23,12 @@
 
 ---
 
-<h3>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="45"> Lenguajes y tecnologías que utilizo
-</h3>
 
+<div>
+<h3>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="40">  Lenguajes y tecnologías que utilizo
+</h3>
+</div>
 <p align="center">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='35'/>
@@ -79,7 +81,10 @@ Mis redes sociales
 ---
 
 <p align="center">
-✨ Gracias por visitar mi perfil ✨
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="45" style="vertical-align: middle;">
+  <span style="vertical-align: middle;">✨ Gracias por visitar mi perfil ✨</span>
+  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="45" style="vertical-align: middle;">
 </p>
+
 
 ![](horizontal-divider-gradient.gif)
