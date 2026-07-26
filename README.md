@@ -1,66 +1,167 @@
-![](horizontal-divider-gradient.gif)
-
 <p align="center">
-  <img src="github-header-banner.png" alt="Banner">
+    <img src="github-header-banner.png" width="100%" alt="GitHub Banner">
 </p>
 
-  <div align="center">
-  <h1 align="center">
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70">
-    ¡Bienvenido a mi perfil de GitHub!
-    <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="70">
-  </h1>
-  </div>
+# Carlos Elías Tzoy Velasco
 
-<h3>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/406eb3e6-caba-401d-93c8-e0a7941c84b9" width="40">
-  Aquí podrás conocer un poco más sobre mí:
-</h3>
+## Perito en Desarrollo de Software | Especializándome en Desarrollo Full Stack
 
-- 💻 Las plataformas y herramientas que sé utilizar.  
-- 📂 Los proyectos en los que he trabajado o que estoy desarrollando.  
-- 🚀 Mis intereses, gustos y pasatiempos relacionados con la programación y la tecnología.  
+Soy **Perito en Desarrollo de Software** y actualmente continúo especializándome en **Desarrollo Full Stack**, fortaleciendo mis conocimientos en desarrollo web, desarrollo backend, bases de datos relacionales, integración de APIs, automatización de procesos e inteligencia artificial aplicada al desarrollo de software.
+
+Me apasiona comprender cómo funcionan las tecnologías desde sus fundamentos para construir soluciones mantenibles, bien documentadas y alineadas con las buenas prácticas de ingeniería de software.
+
+Mi experiencia previa en atención al cliente fortaleció habilidades como la comunicación, la resolución de problemas, el análisis de necesidades y el trabajo bajo presión, competencias que hoy complemento con el desarrollo de software.
 
 ---
 
+# Sobre mí
 
-<div>
-<h3>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/76036311-c8ea-4247-8bf8-a7077623036c" width="40">  Lenguajes y tecnologías que utilizo
-</h3>
-</div>
-<p align="center">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='35'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' width='35'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='35'/>
-<img src='https://upload.wikimedia.org/wikipedia/commons/4/4f/Csharp_Logo.png' width='35'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='35'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='35'/>
-<img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/git.svg' width='35'/>
+Soy un desarrollador orientado al aprendizaje continuo y a la mejora constante.
+
+Disfruto estudiar nuevas tecnologías, documentar procesos de forma profesional y desarrollar proyectos que me permitan aplicar buenas prácticas de programación, arquitectura de software y control de versiones.
+
+Actualmente centro mi formación en el desarrollo de aplicaciones web modernas, el diseño de bases de datos, la integración de servicios mediante APIs REST y la automatización de procesos.
+
+Mi objetivo es desarrollarme profesionalmente como desarrollador Full Stack participando en proyectos que generen soluciones reales y aporten valor a las personas y organizaciones.
+
+---
+
+# Actualmente
+
+Actualmente continúo fortaleciendo mis conocimientos en las siguientes áreas:
+
+- Desarrollo Full Stack.
+- Desarrollo Backend.
+- Arquitectura de Software.
+- Desarrollo Web.
+- Bases de Datos Relacionales.
+- Integración de APIs REST.
+- Automatización de procesos con n8n.
+- Docker y contenedores.
+- Inteligencia Artificial aplicada al desarrollo de software.
+- Buenas prácticas de documentación técnica.
+- Git y GitHub para control de versiones.
+
+---
+
+# Stack Tecnológico
+
+## Frontend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript"/>
 </p>
 
----
-
-<h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="40" />  Sobre mí </h2>
-
-- 🎓 Apasionado por la programación y la tecnología.  
-- 🔍 Siempre aprendiendo nuevas herramientas y lenguajes.  
-- 🛠️ Me gusta crear proyectos que me ayuden a mejorar mis habilidades.  
+| Tecnología | Nivel |
+|------------|--------|
+| HTML5 | Básico |
+| CSS3 | Básico |
+| JavaScript | Intermedio |
 
 ---
-<h2> 🎮 Intereses <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> </h2>
 
+## Backend
 
-Además de programar, disfruto:
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" alt="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Backend"/>
+</p>
 
-- 🎮 Videojuegos en mi tiempo libre  
-- 📖 Aprender constantemente sobre tecnología  
+| Tecnología | Nivel |
+|------------|--------|
+| Python | Básico |
+| Desarrollo Backend | Básico |
+| APIs REST | Intermedio |
 
-<h1 align="center">
-Mis redes sociales
-<img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Handshake.gif" height="25px">
-</h1>
+---
+
+## Bases de Datos
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" alt="MySQL"/>
+</p>
+
+| Tecnología | Nivel |
+|------------|--------|
+| SQL | Intermedio |
+| Diseño de Bases de Datos Relacionales | Intermedio |
+| MySQL | Básico |
+
+---
+
+## Herramientas
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" alt="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" alt="GitHub"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" alt="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" alt="Visual Studio Code"/>
+</p>
+
+| Herramienta | Nivel |
+|-------------|--------|
+| Git | intermedio |
+| GitHub | intermedio |
+| Docker | Intermedio |
+| n8n | Intermedio |
+| Visual Studio Code | Avanzado |
+
+---
+Metodología de Trabajo
+
+En cada proyecto procuro aplicar un proceso organizado basado en buenas prácticas de desarrollo.
+
+• Documentación antes de implementar.
+
+• Uso de Git para el control de versiones.
+
+• Diseño de bases de datos antes del desarrollo.
+
+• Código limpio y estructurado.
+
+• Aprendizaje continuo utilizando documentación oficial.
+
+---
+
+# Proyectos Destacados
+
+## Desarrollo Web
+
+Proyectos enfocados en la construcción de interfaces web utilizando HTML, CSS y JavaScript, aplicando principios de diseño responsivo, organización del código y buenas prácticas de desarrollo.
+
+---
+
+## Bases de Datos
+
+Proyectos relacionados con modelado de bases de datos relacionales, normalización, consultas SQL, procedimientos almacenados y optimización de consultas.
+
+---
+
+## Base de Conocimiento Personal
+
+Mantengo un repositorio personal donde documento de forma estructurada los conceptos, herramientas y tecnologías que estudio durante mi proceso de formación.
+
+Este espacio funciona como una base de conocimiento en constante evolución, permitiéndome consolidar aprendizajes, organizar información técnica y disponer de material de consulta para futuros proyectos.
+
+---
+
+# Objetivos Profesionales
+
+Mi objetivo es desarrollarme profesionalmente como desarrollador Full Stack participando en proyectos que involucren desarrollo web, backend, bases de datos, automatización de procesos e integración de tecnologías modernas.
+
+Busco construir soluciones escalables, mantenibles y bien documentadas, aplicando buenas prácticas de ingeniería de software y manteniendo un aprendizaje continuo para adaptarme a las nuevas tecnologías.
+
+---
+
+# Contacto
+
+Si deseas ponerte en contacto conmigo para colaborar en un proyecto, compartir conocimientos o conversar sobre desarrollo de software, puedes encontrarme a través de los siguientes medios.
+
+---
+
+# Redes Sociales
 
 <p align="center">
 
@@ -77,14 +178,3 @@ Mis redes sociales
 </a>
 
 </p>
-
----
-
-<p align="center">
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="45" style="vertical-align: middle;">
-  <span style="vertical-align: middle;">✨ Gracias por visitar mi perfil ✨</span>
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/87b72768-3740-4648-b118-c3164ff654cd" width="45" style="vertical-align: middle;">
-</p>
-
-
-![](horizontal-divider-gradient.gif)
