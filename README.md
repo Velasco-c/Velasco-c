@@ -14,7 +14,7 @@ Ciudad de Guatemala, Guatemala | Disponible para prácticas profesionales y opor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/carlos-tzoy-velasco/)
 [![GitHub](https://img.shields.io/badge/GitHub-Velasco--c-181717?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/Velasco-c)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web-111827?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://velasco-c.github.io/Portafolio/)
+[![Portafolio](https://img.shields.io/badge/Portafolio-Web-111827?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://velasco-c.github.io/P3R-Portfolio/)
 
 </div>
 
